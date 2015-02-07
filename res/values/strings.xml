@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_york_us">New York,US</string>
+    <string name="_0">0</string>
+    <string name="scale">C</string>
+    <string name="clear">Clear</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="search_for_a_location">SEARCH FOR A LOCATION</string>
+    <string name="action_search">Search</string>
+    <string name="preference_file">com.zappos.weatherApp.preferences</string>
+    <string name="weather_image">Weather Image</string>
+    <string name="now">Now</string>
+    <string name="hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="set_home_location">Set Home Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="home_location">Home Location</string>
+    <string name="about">About Us</string>
+    <string name="about_us">Zappos Weather App works to provide you with blazing fast, reliablle and accurate weather updates of limited cities in US. The information include hourly forecast for the day and daily forcast for next 7 days. The application is designed and developed solely by Piyush.\n \n \t \tFor V2.0, with cool voice features and home screen widgets, YOU MUST HIRE PIYUSH :). Not just weather app, but every future application might be planned with Piyush.\n\n Thanks.</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+
+</resources>

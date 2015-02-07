@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name = "platinum" type="color">#FFE5E4E2</item>
+    <item name = "blue_earth" type = "color">#FF0000A0</item>
+    <item name = "white_milk" type = "color">#FFFEFCFF</item>
+	<item name = "white_disabled" type = "color">#AABDBDBD</item>
+</resources>
